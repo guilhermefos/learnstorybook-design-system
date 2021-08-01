@@ -8,8 +8,8 @@ import { Icon } from './Icon';
 export const sizes = {
   large: 40,
   medium: 28,
-  small: 20,
-  tiny: 16,
+  small: 22,
+  tiny: 18,
 };
 
 const Image = styled.div`
