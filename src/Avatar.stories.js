@@ -54,7 +54,7 @@ export const Large = (args) => (
     <Avatar size="large" username="Tom Coleman" />
     <Avatar
       size="large"
-      username="Tom Coleman"
+      username="Tom Morelo"
       src="https://avatars2.githubusercontent.com/u/132554"
     />
   </div>
